@@ -13,5 +13,6 @@
     "siteurl": "http://kta.elearn.vn",
     "skipssoconfirmation": "true",
     "forcedefaultlanguage": "false",
+	"preset":"{"url":"http://kta.elearn.vn","username":""}",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
 }
