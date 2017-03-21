@@ -3,7 +3,7 @@
   <name>KTA Elearn</name>
   <description>Official KTA Elearn</description>
   <author href="http://moodle.com" email="juan@moodle.com">Juan Leyva</author>
- 
+  <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
   <allow-navigation href="content:*"/>
