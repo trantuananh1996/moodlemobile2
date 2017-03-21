@@ -53,7 +53,7 @@
     "syncsettings": "Synchronization settings",
     "syncsitesuccess": "Site data synchronized and all caches invalidated.",
     "total": "Total",
-    "versioncode": "Version code",
-    "versionname": "Version name",
+    "versioncode": "1",
+    "versionname": "1.0.0",
     "wificonnection": "WiFi connection"
 }
