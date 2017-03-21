@@ -11,7 +11,7 @@
     "gcmpn": "",
     "customurlscheme": "moodlemobile",
     "siteurl": "http://kta.elearn.vn",
-    "skipssoconfirmation": "true",
+    "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
 }
